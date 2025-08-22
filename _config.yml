@@ -1,3 +1,7 @@
 title: "Laust Rask"
 description: "Nanoscience Graduate from the University of Copenhagen | Quantum Enthusiast"
 theme: minima
+header_pages:
+  - about.md
+  - contact.md
+  - projects.md

@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 
-# 👋 Hi, I’m Your Name
+# 👋 Hi, I’m Laust Rask
 
 I am a **Master’s Graduate in Nanoscience** from the University of Copenhagen, currently working in the Kurt V. Mikkelsen group.  
 My research focuses on **electron transfer through molecular junctions**, **second quantization**, and **QM/MM simulations**.
