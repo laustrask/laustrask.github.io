@@ -3,12 +3,25 @@ layout: page
 title: "Hobbies"
 ---
 
-## Involvement in KemiRevy
-I was an active member of the chemistry revue at the University of Copenhagen called **KemiRevy** from 2022 to 2024. During this time, I contributed to various film projects and helped promote the event, which combines science and entertainment. My film projects can be seen below:
+<div style="position:fixed; top:10px; left:10px; width:200px;">
+  <h3>Jump to Section</h3>
+  <ul>
+    <li><a href="#kemi-revy">Involvement in KemiRevy</a></li>
+    <li><a href="#sikke-et-koncept">Sikke et koncept</a></li>
+    <li><a href="#hvad-lytter-du-til">Hvad lytter du til?</a></li>
+    <li><a href="#nissen">Nissen</a></li>
+  </ul>
+</div>
+
+<div style="margin-left:220px;">
+## Involvement in KemiRevy {#kemi-revy}
+I was an active member of the chemistry revue at the University of Copenhagen called **KemiRevy** from 2022 to 2024. During this time, I contributed to various film projects and helped promote the event, which combines science and entertainment. Warning: They are all in Danish and might contain references which are not easily understood without knowledge of the study environment at CHEM KU.
+
+My film projects can be seen below:
 
 ---
 
-### Sikke et koncept (What a concept) – 2023
+### Sikke et koncept (What a concept) – 2023 {#sikke-et-koncept}
 A humorous take on the different study programs at the Department of Chemistry at KU. This series includes the following episodes:
 
 #### Chemistry
@@ -39,7 +52,7 @@ allowfullscreen>
 
 ---
 
-### Hvad lytter du til? (What are you listening to?) – 2024
+### Hvad lytter du til? (What are you listening to?) – 2024 {#hvad-lytter-du-til}
 A comedic take on the different study programs at the Department of Chemistry at KU. This is in two parts:
 
 <iframe width="560" height="315" 
@@ -60,7 +73,7 @@ allowfullscreen>
 
 ---
 
-### Nissen (The Gnome) – 2024
+### Nissen (The Gnome) – 2024 {#nissen}
 Elias Rangel Aabye playing the Gnome in a comedic sketch about the life at the Department of Chemistry at KU. The Gnome is the reason why nothing works at the department.
 
 <iframe width="560" height="315" 
@@ -71,3 +84,4 @@ allowfullscreen>
 </iframe>
 
 > Huge thanks to Elias Rangel Aabye for his fantastic performance in this sketch, idea generation, editing help, and overall creativity.
+</div>
