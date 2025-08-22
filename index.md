@@ -3,8 +3,26 @@ layout: home
 title: "Welcome"
 ---
 
-# Hi, I'm Laust Rask
+# 👋 Hi, I’m Your Name
 
-I'm a Nanoscience Masters graduate working on computational quantum chemistry and electron transfer in molecular junctions.
+I am a **Master’s Graduate in Nanoscience** from the University of Copenhagen, currently working in the Kurt V. Mikkelsen group.  
+My research focuses on **electron transfer through molecular junctions**, **second quantization**, and **QM/MM simulations**.
 
-👉 [About Me](about)
+---
+
+## 🔬 Research Interests
+- Quantum master equations (Redfield, Lindblad, LvN)  
+- Electron transfer in nanoscale systems  
+- QM/MM and electrostatics in molecular junctions  
+- Density Functional Theory (DFT) and beyond  
+
+---
+
+## 📂 Featured Projects
+- [Quantum Master Equation Toolbox](#) – Python workflows for simulating open quantum systems  
+- [Dalton Automation Scripts](#) – Bash & Python scripts for HPC workflows  
+- [Molecular Junction Transport Analysis](#) – QM/MM + Fock matrix reconstruction bridge  
+
+---
+
+👉 Learn more [about me](about).
