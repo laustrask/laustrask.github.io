@@ -10,21 +10,21 @@ A humorous take on the different study programs at the Department of Chemistry a
 This series includes the following episodes:
  - Chemistry
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=a5aQpFaq2-c" 
+src="https://www.youtube.com/embed/a5aQpFaq2-c" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
 </iframe>
  - Medicinal Chemistry 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=fWjQoZDjFpg" 
+src="https://www.youtube.com/embed/fWjQoZDjFpg" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
 </iframe>
  - Nanoscience
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=3pHQCSOthXE" 
+src="https://www.youtube.com/embed/3pHQCSOthXE" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
@@ -35,13 +35,13 @@ A huge thanks to Jerik Lauridsen for his help with the editing and Elias Rangel 
 A comedic take on the different study programs at the Department of Chemistry at KU.
 This is in two parts:
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=_0hGB4YofqI&pp=0gcJCa0JAYcqIYzv" 
+src="https://www.youtube.com/embed/_0hGB4YofqI&pp=0gcJCa0JAYcqIYzv" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
 </iframe>
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=Y24kgzmolbU" 
+src="https://www.youtube.com/embed/Y24kgzmolbU" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
@@ -51,7 +51,7 @@ allowfullscreen>
 3. "Nissen" (The Gnome) - 2024
 Elias Rangel Aabye playing the Gnome in a comedic sketch about the life at the Department of Chemistry at KU. The Gnome is the reason why nothing works at the department.
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=3pHQCSOthXE" 
+src="https://www.youtube.com/embed/3pHQCSOthXE" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
