@@ -35,7 +35,7 @@ A huge thanks to Jerik Lauridsen for his help with the editing and Elias Rangel 
 A comedic take on the different study programs at the Department of Chemistry at KU.
 This is in two parts:
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/_0hGB4YofqI&pp=0gcJCa0JAYcqIYzv" 
+src="https://www.youtube.com/embed/_0hGB4YofqI" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
