@@ -13,7 +13,6 @@ title: "Hobbies"
   </ul>
 </div>
 
-<div style="margin-left:220px;">
 ## Involvement in KemiRevy {#kemi-revy}
 I was an active member of the chemistry revue at the University of Copenhagen called **KemiRevy** from 2022 to 2024. During this time, I contributed to various film projects and helped promote the event, which combines science and entertainment. Warning: They are all in Danish and might contain references which are not easily understood without knowledge of the study environment at CHEM KU.
 
@@ -84,4 +83,3 @@ allowfullscreen>
 </iframe>
 
 > Huge thanks to Elias Rangel Aabye for his fantastic performance in this sketch, idea generation, editing help, and overall creativity.
-</div>
