@@ -3,20 +3,26 @@ layout: page
 title: "Hobbies"
 ---
 
-<div style="position:fixed; top:10px; left:10px; width:200px;">
+<div style="position:fixed; top:10px; left:10px; width:220px;">
   <h3>Jump to Section</h3>
   <ul>
-    <li><a href="#kemi-revy">Involvement in KemiRevy</a></li>
-    <li><a href="#sikke-et-koncept">Sikke et koncept</a></li>
-    <li><a href="#hvad-lytter-du-til">Hvad lytter du til?</a></li>
-    <li><a href="#nissen">Nissen</a></li>
+    <li>
+      <a href="#kemi-revy">KemiRevy</a>
+      <ul>
+        <li><a href="#sikke-et-koncept">Sikke et koncept</a></li>
+        <li><a href="#hvad-lytter-du-til">Hvad lytter du til?</a></li>
+        <li><a href="#ksbogen-er-skrevet-i-word">KSBogen er skrevet i Word</a></li>
+        <li><a href="#nissen">Nissen</a></li>
+      </ul>
+    </li>
   </ul>
 </div>
 
-## Involvement in KemiRevy {#kemi-revy}
-I was an active member of the chemistry revue at the University of Copenhagen called **KemiRevy** from 2022 to 2024. During this time, I contributed to various film projects and helped promote the event, which combines science and entertainment. Warning: They are all in Danish and might contain references which are not easily understood without knowledge of the study environment at CHEM KU.
 
-My film projects can be seen below:
+## Involvement in KemiRevy {#kemi-revy}
+I was an active member of the chemistry revue at the University of Copenhagen called **KemiRevy** from 2022 to 2024. During this time, I contributed to various film projects and helped promote the event, which combines science and entertainment. 
+
+Warning: They are all in Danish and might contain references which are not easily understood without knowledge of the study environment at CHEM KU.
 
 ---
 
@@ -51,7 +57,7 @@ allowfullscreen>
 
 ---
 
-### Hvad lytter du til? (What are you listening to?) – 2024 {#hvad-lytter-du-til}
+### Hvad lytter du til? (What are you listening to?) – 2023 {#hvad-lytter-du-til}
 A comedic take on the different study programs at the Department of Chemistry at KU. This is in two parts:
 
 <iframe width="560" height="315" 
@@ -72,7 +78,15 @@ allowfullscreen>
 
 ---
 
-### Nissen (The Gnome) – 2024 {#nissen}
+### KSBogen er skrevet i word (The KSBook is written in Word) – 2024 {#ksbogen-er-skrevet-i-word}
+Elas Rangel Aabye and I thought the KS Book written by our lovely professor Stephan Sauer had a Word format. 
+
+<video width="560" height="315" controls>
+  <source src="assets/KSBogen.mp4" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
+### Nissen (The Gnome) – 2025 {#nissen}
 Elias Rangel Aabye playing the Gnome in a comedic sketch about the life at the Department of Chemistry at KU. The Gnome is the reason why nothing works at the department.
 
 <iframe width="560" height="315" 
