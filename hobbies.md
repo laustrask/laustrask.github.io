@@ -3,20 +3,39 @@ layout: page
 title: "Hobbies"
 ---
 
-<div style="position:fixed; top:10px; left:10px; width:220px;">
-  <h3>Jump to Section</h3>
-  <ul>
-    <li>
-      <a href="#kemi-revy">KemiRevy</a>
-      <ul>
-        <li><a href="#sikke-et-koncept">Sikke et koncept</a></li>
-        <li><a href="#hvad-lytter-du-til">Hvad lytter du til?</a></li>
-        <li><a href="#ksbogen-er-skrevet-i-word">KSBogen er skrevet i Word</a></li>
-        <li><a href="#nissen">Nissen</a></li>
+<div style="position:fixed; top:10px; left:10px; width:220px; font-family:sans-serif;">
+  <h3 style="margin-bottom:10px;">Jump to Section</h3>
+  <ul style="list-style:none; padding:0; margin:0;">
+    <li style="margin-bottom:8px;">
+      <a href="#kemi-revy" style="display:block; padding:8px 12px; background:#4CAF50; color:white; text-decoration:none; border-radius:6px; font-weight:bold; text-align:center;">
+        KemiRevy
+      </a>
+      <ul style="list-style:none; padding-left:0; margin-top:8px;">
+        <li style="margin-bottom:6px;">
+          <a href="#sikke-et-koncept" style="display:block; padding:6px 10px; background:#f0f0f0; color:#333; text-decoration:none; border-radius:4px;">
+            Sikke et koncept
+          </a>
+        </li>
+        <li style="margin-bottom:6px;">
+          <a href="#hvad-lytter-du-til" style="display:block; padding:6px 10px; background:#f0f0f0; color:#333; text-decoration:none; border-radius:4px;">
+            Hvad lytter du til?
+          </a>
+        </li>
+        <li style="margin-bottom:6px;">
+          <a href="#ksbogen-er-skrevet-i-word" style="display:block; padding:6px 10px; background:#f0f0f0; color:#333; text-decoration:none; border-radius:4px;">
+            KSBogen er skrevet i Word
+          </a>
+        </li>
+        <li style="margin-bottom:6px;">
+          <a href="#nissen" style="display:block; padding:6px 10px; background:#f0f0f0; color:#333; text-decoration:none; border-radius:4px;">
+            Nissen
+          </a>
+        </li>
       </ul>
     </li>
   </ul>
 </div>
+
 
 
 ## Involvement in KemiRevy {#kemi-revy}
@@ -82,7 +101,7 @@ allowfullscreen>
 Elas Rangel Aabye and I thought the KS Book written by our lovely professor Stephan Sauer had a Word format. 
 
 <video width="560" height="315" controls>
-  <source src="assets/KSBogen.mp4" type="video/quicktime">
+  <source src="assets/KSBogen.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
