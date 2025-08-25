@@ -98,13 +98,16 @@ allowfullscreen>
 ---
 
 ### KSBogen er skrevet i word (The KSBook is written in Word) – 2024 {#ksbogen-er-skrevet-i-word}
-Elas Rangel Aabye and I thought the KS Book written by our lovely professor Stephan Sauer had a Word format. 
+Elas Rangel Aabye and I thought the KS–Book (a great book of notes about quantum chemistry and spectroscopy) written by our lovely professor Stephan Sauer had a Word format.
 
 <video width="560" height="315" controls>
   <source src="assets/KSBogen.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+> Huge thanks to Elas Rangel Aabye for his contributions to this project, this was a two-man effort.
+
+---
 ### Nissen (The Gnome) – 2025 {#nissen}
 Elias Rangel Aabye playing the Gnome in a comedic sketch about the life at the Department of Chemistry at KU. The Gnome is the reason why nothing works at the department.
 

@@ -24,20 +24,19 @@ title: "About Me"
 ## 👐 Volunteering Work
 - **Nanoscience Study Council**  
   - Chairman (2 years), Deputy Chairman (1 year).  
-  - Led initiatives to improve research and student engagement.  
+  - Led initiatives to improve research and student engagement.
 
 ---
 
 ## ⚙️ Technical Skills
-- **Programming & Tools:** Python, Bash, Git, GitHub  
-- **Quantum Chemistry Software:** Dalton, Gaussian, ORCA  
-- **Methods:** DFT, QM/MM, Second Quantization, Quantum Master Equations  
-- **Visualization & Analysis:** NumPy, Pandas, Matplotlib  
+- **Programming & Tools:** Python, Bash, Git, GitHub etc.
+- **Quantum Chemistry Software:** Dalton, Gaussian, ORCA, Penguin 
+- **Methods:** DFT, QM/MM, Quantum Master Equations
 
 ---
 
 ## 🏆 Achievements
-- Active contributor to KemiRevy, combining science & outreach with 600+ audience members yearly  
+- Nanoscience Student of the Year - Department of Chemistry, University of Copenhagen 2022 & 2024
 
 ---
 
