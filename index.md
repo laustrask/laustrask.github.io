@@ -2,7 +2,6 @@
 layout: home
 title: "Welcome"
 ---
-<button id="theme-toggle">🌙 Toggle Dark Mode</button>
 
 # 👋 Hi, I’m Laust Rask
 
