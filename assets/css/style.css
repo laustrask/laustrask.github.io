@@ -1,17 +1,27 @@
-.social-icons {
-  position: fixed;       /* stays in place when scrolling */
-  top: 10px;             /* distance from top */
-  left: 10px;            /* distance from left */
-  z-index: 1000;         /* keeps icons above content */
+.site-header {
+  position: fixed;       /* sticks to top */
+  top: 0;
+  left: 0;
+  width: 100%;           /* spans the full width */
+  background: #fff;      /* white background (change if you want) */
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  z-index: 1000;         /* keeps it above content */
 }
 
 .social-icons a img {
   width: 30px;
   height: 30px;
-  margin-right: 10px;    /* space between icons */
+  margin-right: 15px;
+  vertical-align: middle;
   transition: transform 0.2s;
 }
 
 .social-icons a img:hover {
-  transform: scale(1.2); /* hover effect */
+  transform: scale(1.2);
+}
+
+/* Push page content down so it's not hidden behind header */
+.site-content {
+  margin-top: 60px; /* adjust depending on header height */
 }
