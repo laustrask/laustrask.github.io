@@ -19,6 +19,16 @@
           <img src="/assets/icons/email.svg" alt="Email">
         </a>
       </div>
+      <nav class="site-nav">
+        <ul>
+          {% for page in site.header_pages %}
+            {% assign p = site.pages | where: "path", page | first %}
+            {% if p.title %}
+              <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
     </header>
 
     <!-- Main page content -->
