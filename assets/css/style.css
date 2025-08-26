@@ -1,0 +1,17 @@
+.social-icons {
+  position: fixed;       /* stays in place when scrolling */
+  top: 10px;             /* distance from top */
+  left: 10px;            /* distance from left */
+  z-index: 1000;         /* keeps icons above content */
+}
+
+.social-icons a img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;    /* space between icons */
+  transition: transform 0.2s;
+}
+
+.social-icons a img:hover {
+  transform: scale(1.2); /* hover effect */
+}
