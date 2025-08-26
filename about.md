@@ -5,9 +5,9 @@ title: "About Me"
 
 ## 🎓 Education
 - **M.Sc. Nanoscience** – University of Copenhagen, 2025  
-  Thesis: *TITLE*  
+  Thesis: Electron Transfer Through a Molecular Junction Utilising Quantum Master Equations 
 - **B.Sc. Nanoscience** – University of Copenhagen, 2023  
-  Thesis: *TITLE*  
+  Thesis: Core Excitations in Cluster Perturbation Theory Using Core-Valence Separation
 
 ---
 
@@ -18,7 +18,8 @@ title: "About Me"
   - Exploring **Redfield & Lindblad master equations** for charge transfer.  
 
 - **Bachelor’s Thesis – Kurt V. Mikkelsen Group**  
-  - [Short description of your bachelor thesis focus].  
+  - Investigating **core excitations** in **cluster perturbation theory** and variational cluster perturbation theory using **core-valence separation**.
+  - Implementing novel computational techniques for improved accuracy.
 
 ---
 ## 👐 Volunteering Work
