@@ -1,11 +1,29 @@
-<div class="social-icons">
-  <a href="https://www.linkedin.com/in/laustrask/" target="_blank">
-    <img src="/assets/icons/linkedin.svg" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/laustrask" target="_blank">
-    <img src="/assets/icons/github.svg" alt="GitHub">
-  </a>
-  <a href="mailto:laustrask@live.dk">
-    <img src="/assets/icons/email.svg" alt="Email">
-  </a>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <!-- Header with icons -->
+    <header class="site-header">
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/laustrask/" target="_blank">
+          <img src="/assets/icons/linkedin.svg" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/laustrask" target="_blank">
+          <img src="/assets/icons/github.svg" alt="GitHub">
+        </a>
+        <a href="mailto:laustrask@live.dk">
+          <img src="/assets/icons/email.svg" alt="Email">
+        </a>
+      </div>
+    </header>
+
+    <!-- Main page content -->
+    <main class="site-content">
+      {{ content }}
+    </main>
+  </body>
+</html>

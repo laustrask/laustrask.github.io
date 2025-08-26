@@ -1,12 +1,12 @@
 .site-header {
-  position: fixed;       /* sticks to top */
+  position: fixed;
   top: 0;
   left: 0;
-  width: 100%;           /* spans the full width */
-  background: #fff;      /* white background (change if you want) */
+  width: 100%;
+  background: #fff;
   border-bottom: 1px solid #ddd;
   padding: 10px;
-  z-index: 1000;         /* keeps it above content */
+  z-index: 1000;
 }
 
 .social-icons a img {
@@ -14,14 +14,8 @@
   height: 30px;
   margin-right: 15px;
   vertical-align: middle;
-  transition: transform 0.2s;
 }
 
-.social-icons a img:hover {
-  transform: scale(1.2);
-}
-
-/* Push page content down so it's not hidden behind header */
 .site-content {
-  margin-top: 60px; /* adjust depending on header height */
+  margin-top: 60px; /* pushes content down so it's not hidden behind the header */
 }
