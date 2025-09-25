@@ -1,12 +1,9 @@
 ---
 layout: page
 title: "Contact"
-sidebar: |
-  <h2>Contact</h2>
-  <ul>
-    <li><a href="#get-in-touch">Get in Touch</a></li>
-    <li><a href="assets/LaustRask_CV.pdf" download>Download CV (PDF)</a></li>
-  </ul>
+sidebar:  |
+  * TOC
+  {:toc}
 ---
 
 ## Get in Touch

@@ -15,5 +15,4 @@ header_pages:
 markdown: kramdown
 kramdown:
   input: GFM
-  toc_levels: 2..6
-  
+  toc_levels: 2..3

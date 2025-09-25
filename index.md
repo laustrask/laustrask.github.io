@@ -1,6 +1,9 @@
 ---
 layout: home
 title: "Home"
+sidebar:  |
+  * TOC
+  {:toc}
 ---
 
 # I’m Laust Rask Welcome to my personal website!

@@ -1,17 +1,11 @@
 ---
 layout: page
 title: "About Me"
-sidebar: |
-  <h2>About Me</h2>
-  <ul>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#research-experience">Research Experience</a></li>
-    <li><a href="#volunteering-work">Volunteering Work</a></li>
-    <li><a href="#technical-skills">Technical Skills</a></li>
-    <li><a href="#achievements-and-awards">Achievements and Awards</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
+sidebar:  |
+  * TOC
+  {:toc}
 ---
+
 
 ## Education
 - **M.Sc. Nanoscience** – University of Copenhagen, 2025  

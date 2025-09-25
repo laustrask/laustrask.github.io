@@ -1,15 +1,9 @@
 ---
 layout: page
 title: "Hobbies"
-sidebar: |
-  <h2>Hobbies</h2>
-  <ul>
-    <li><a href="#kemi-revy">Involvement in KemiRevy</a></li>
-    <li><a href="#sikke-et-koncept">Sikke et koncept</a></li>
-    <li><a href="#hvad-lytter-du-til">Hvad lytter du til?</a></li>
-    <li><a href="#ksbogen-er-skrevet-i-word">KSBogen er skrevet i Word</a></li>
-    <li><a href="#nissen">Nissen</a></li>
-  </ul>
+sidebar:  |
+  * TOC
+  {:toc}
 ---
 
 ## Involvement in KemiRevy {#kemi-revy}
