@@ -11,3 +11,9 @@ header_pages:
   - projects.md
   - publications.md
   - hobbies.md
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..6
+  

@@ -33,9 +33,10 @@
     <!-- Main layout with sidebar -->
     <div class="page-container">
       <aside class="sidebar">
-        {{ page.sidebar }}
+        <h2>On this page</h2>
+        {{ content | toc }}
       </aside>
-
+    
       <main class="site-content">
         {{ content }}
       </main>
