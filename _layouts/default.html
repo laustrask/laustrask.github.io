@@ -20,20 +20,25 @@
         </a>
       </div>
 
-    <nav class="site-nav">
-      {% for page in site.header_pages %}
-        {% assign p = site.pages | where: "path", page | first %}
-        {% if p.title %}
-          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
-  </header>
+      <nav class="site-nav">
+        {% for page in site.header_pages %}
+          {% assign p = site.pages | where: "path", page | first %}
+          {% if p.title %}
+            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </header>
 
+    <!-- Main layout with sidebar -->
+    <div class="page-container">
+      <aside class="sidebar">
+        {{ page.sidebar }}
+      </aside>
 
-    <!-- Main page content -->
-    <main class="site-content">
-      {{ content }}
-    </main>
+      <main class="site-content">
+        {{ content }}
+      </main>
+    </div>
   </body>
 </html>

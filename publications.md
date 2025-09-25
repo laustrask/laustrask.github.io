@@ -2,6 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
+sidebar: |
+  <h2>Publications</h2>
+  <ul>
+    <li><a href="#featured-publications">Featured Publications</a></li>
+    <li><a href="#other-publications">Other Publications</a></li>
+  </ul>
 ---
 
 # Publications
