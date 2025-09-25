@@ -33,8 +33,7 @@
     <!-- Main layout with sidebar -->
     <div class="page-container">
       <aside class="sidebar">
-        <h2>On this page</h2>
-        {{ content | toc }}
+        {{ page.sidebar | markdownify }}
       </aside>
     
       <main class="site-content">
