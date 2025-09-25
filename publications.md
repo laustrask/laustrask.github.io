@@ -7,8 +7,6 @@ sidebar:  |
   {:toc}
 ---
 
-# Publications
-
 Welcome to the Publications page! Here you can find a list of articles, papers, and other works.
 
 ## Featured Publications

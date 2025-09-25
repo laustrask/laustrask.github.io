@@ -6,6 +6,7 @@ sidebar:  |
   {:toc}
 ---
 
+This is the about me page. Here you can find information about my background, education, research experience, skills, achievements, and contact details.
 
 ## Education
 - **M.Sc. Nanoscience** – University of Copenhagen, 2025  

@@ -48,6 +48,10 @@
   border-right: 1px solid #ddd;
   padding: 1rem;
   flex-shrink: 0;
+  position: sticky;
+  top: 70px; /* same as header height */
+  height: calc(100vh - 70px); /* fill the remaining viewport height */
+  overflow-y: auto; /* scroll if content exceeds sidebar height */
 }
 
 .site-content {
