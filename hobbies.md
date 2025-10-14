@@ -4,6 +4,11 @@ title: "Hobbies"
 sidebar:  |
   * TOC
   {:toc}
+  * [KemiRevy](#kemi-revy)
+  * [Sikke et koncept](#sikke-et-koncept)
+  * [Hvad lytter du til?](#hvad-lytter-du-til)
+  * [KSBogen er skrevet i word](#ksbogen-er-skrevet-i-word)
+  * [Nissen](#nissen)
 ---
 
 ## Involvement in KemiRevy {#kemi-revy}
