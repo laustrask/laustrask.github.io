@@ -23,7 +23,7 @@ This is the about me page. Here you can find information about my background, ed
   - Exploring **Redfield & Lindblad master equations** for charge transfer.  
 
 - **Bachelor’s Thesis – Kurt V. Mikkelsen Group**  
-  - Investigating **core excitations** in **cluster perturbation theory** and variational cluster perturbation theory using **core-valence separation**.
+  - Investigating **core excitations** in **Cluster Perturbation Theory** and variational cluster perturbation theory using **Core-Valence Separation**.
   - Implementing novel computational techniques for improved accuracy.
 
 ---
@@ -37,7 +37,7 @@ This is the about me page. Here you can find information about my background, ed
 ## Technical Skills
 - **Programming & Tools:** Python, Bash, Git, GitHub etc.
 - **Quantum Chemistry Software:** Dalton, Gaussian, ORCA, Penguin 
-- **Methods:** DFT, QM/MM, Quantum Master Equations
+- **Methods:** DFT, QM/MM, Quantum Master Equations, Coupled Cluster Theory, Cluster Perturbation Theory, many more.
 
 ---
 

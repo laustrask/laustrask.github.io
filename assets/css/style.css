@@ -53,6 +53,28 @@
   height: calc(100vh - 70px); /* fill the remaining viewport height */
   overflow-y: auto; /* scroll if content exceeds sidebar height */
 }
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin-bottom: 0.4rem;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  display: block;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+}
+
+.sidebar a:hover {
+  background-color: #e4e4e4;
+}
 
 .site-content {
   flex: 1;
