@@ -92,3 +92,8 @@
     border-bottom: 1px solid #ddd;
   }
 }
+
+.profile-pic {
+  width: 200px;     /* change this */
+  height: auto;     /* keeps aspect ratio */
+}
